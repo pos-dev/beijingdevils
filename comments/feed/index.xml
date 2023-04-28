@@ -8,10 +8,10 @@
 <channel>
 	<title>
 	Comments for Beijing Devils RFC	</title>
-	<atom:link href="http://localhost/beijingdevils/comments/feed/?simply_static_page=4524" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/beijingdevils/comments/feed/?simply_static_page=8683" rel="self" type="application/rss+xml" />
 	<link>https://pos-dev.github.io/beijingdevils</link>
 	<description></description>
-	<lastBuildDate>Wed, 19 Apr 2023 07:28:39 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 28 Apr 2023 06:27:23 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=6.2</generator>
 	<item>
 		<title>
-		Comment on Hello world! by A WordPress Commenter		</title>
+		Comment on 2022&gt; by A WordPress Commenter		</title>
 		<link>https://pos-dev.github.io/beijingdevils/2023/04/19/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
